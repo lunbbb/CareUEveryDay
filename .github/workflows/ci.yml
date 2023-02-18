@@ -1,6 +1,6 @@
 name: CareUEveryDay Cron CI
 
- on:
+on:
   push:
     branches:
       - main
